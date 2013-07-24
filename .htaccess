@@ -1,3 +1,4 @@
+Redirect 301 /u https://github.com/simonowendesign/redirects/edit/master/.htaccess
 Redirect 301 /paths https://gist.github.com/simonowendesign/3180929
 Redirect 301 /wp http://simonowendesign.co.uk/blog/categories/wordpress/
 Redirect 301 /mcrfred-07 http://simonowendesign.co.uk/blog/2013/07/24/mcrfred-round-7-chris-mills-on-the-importance-of-documentation/
