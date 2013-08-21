@@ -10,6 +10,7 @@ Redirect 301 /mcrfred-03 http://simonowendesign.co.uk/blog/2013/06/01/manchester
 Redirect 301 /mcrfred-02 http://simonowendesign.co.uk/blog/2013/05/01/manchester-fred-gets-responsive/
 Redirect 301 /mcrfred-01 http://simonowendesign.co.uk/blog/2013/05/05/mcrfred-01-videos/
 Redirect 301 /mcrfred    http://simonowendesign.co.uk/blog/categories/mcrfred/
+Redirect 301 /mwug       http://simonowendesign.co.uk/blog/categories/wordpress/
 Redirect 301 /h5bp       https://github.com/h5bp/html5-boilerplate
 Redirect 301 /cdt        https://github.com/simonowendesign/SO-Dark-Monokai-v3
 Redirect 301 /dotfiles   https://github.com/simonowendesign/dotfiles
