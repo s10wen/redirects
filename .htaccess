@@ -2,6 +2,7 @@ Redirect 301 /u          https://github.com/simonowendesign/redirects/edit/maste
 Redirect 301 /watch      https://gist.github.com/simonowendesign/6140751
 Redirect 301 /paths      https://gist.github.com/simonowendesign/3180929
 Redirect 301 /wp         http://simonowendesign.co.uk/blog/categories/wordpress/
+Redirect 301 /mcrfred-08 http://simonowendesign.co.uk/blog/2013/09/30/mcrfred-round-8-something-a-little-different/
 Redirect 301 /mcrfred-07 http://simonowendesign.co.uk/blog/2013/07/24/mcrfred-round-7-chris-mills-on-the-importance-of-documentation/
 Redirect 301 /mcrfred-06 http://simonowendesign.co.uk/blog/2013/07/24/mcrfred-round-6-martin-rue-on-javascript-as-a-language/
 Redirect 301 /mcrfred-05 http://simonowendesign.co.uk/blog/2013/05/14/mcrfred-round-5-andrew-nesbitt/
