@@ -7,6 +7,7 @@ Redirect 301 /escape      http://173.254.28.140/~simonow1/escape-the-trap/01-sta
 Redirect 301 /gittip      https://www.gittip.com/simonowendesign/
 Redirect 301 /h5bp        https://github.com/h5bp/html5-boilerplate
 Redirect 301 /list        https://gist.github.com/simonowendesign/fef13fdb8c8b604567d7
+Redirect 301 /liste       https://gist.github.com/simonowendesign/fef13fdb8c8b604567d7/edit
 Redirect 301 /mcrfred-10  http://simonowendesign.co.uk/blog/2013/11/04/mcrfred-round-10-andrew-clarke/
 Redirect 301 /mcrfred-09  http://simonowendesign.co.uk/blog/2013/11/04/mcrfred-round-9-manchester-freelance-front-end-developers/
 Redirect 301 /mcrfred-08  http://simonowendesign.co.uk/blog/2013/09/30/mcrfred-round-8-something-a-little-different/
