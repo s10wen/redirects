@@ -8,6 +8,7 @@ Redirect 301 /gittip      https://www.gittip.com/s10wen/
 Redirect 301 /h5bp        https://github.com/h5bp/html5-boilerplate
 Redirect 301 /list        https://gist.github.com/s10wen/fef13fdb8c8b604567d7
 Redirect 301 /liste       https://gist.github.com/s10wen/fef13fdb8c8b604567d7/edit
+Redirect 301 /mcrfred-16  http://s10wen.com/blog/2014/06/23/mcrfred-16-andi-smith/
 Redirect 301 /mcrfred-15  http://s10wen.com/blog/2014/05/24/mcrfred-15-simon-owen/
 Redirect 301 /mcrfred-14  http://s10wen.com/blog/2014/04/05/mcrfred-14-dan-donald/
 Redirect 301 /mcrfred-13  http://s10wen.com/blog/2014/02/09/mcrfred-13-patrick-lauke/
