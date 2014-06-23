@@ -2,12 +2,10 @@ Redirect 301 /cdt         https://github.com/s10wen/SO-Dark-Monokai-v3
 Redirect 301 /chat        http://etherpad.wikimedia.org/p/sowso
 Redirect 301 /code        http://codeshare.io/sowso
 Redirect 301 /donate      http://s10wen.com/blog/2013/05/26/mcrfred-sponsoring-and-donating/
-Redirect 301 /dotfiles    https://github.com/https://github.com/s10wen/SO-Dark-Monokai-v3/dotfiles
+Redirect 301 /dotfiles    https://github.com/s10wen/dotfiles
 Redirect 301 /escape      http://173.254.28.140/~simonow1/escape-the-trap/01-start.html
 Redirect 301 /gittip      https://www.gittip.com/s10wen/
 Redirect 301 /h5bp        https://github.com/h5bp/html5-boilerplate
-Redirect 301 /list        https://gist.github.com/s10wen/fef13fdb8c8b604567d7
-Redirect 301 /liste       https://gist.github.com/s10wen/fef13fdb8c8b604567d7/edit
 Redirect 301 /mcrfred-16  http://s10wen.com/blog/2014/06/23/mcrfred-16-andi-smith/
 Redirect 301 /mcrfred-15  http://s10wen.com/blog/2014/05/24/mcrfred-15-simon-owen/
 Redirect 301 /mcrfred-14  http://s10wen.com/blog/2014/04/05/mcrfred-14-dan-donald/
@@ -33,6 +31,5 @@ Redirect 301 /sponsor     http://s10wen.com/blog/2013/05/26/mcrfred-sponsoring-a
 Redirect 301 /st          https://gist.github.com/s10wen/3293504
 Redirect 301 /tshirts     http://s10wen.com/blog/2014/02/26/mcrfred-t-shirts/
 Redirect 301 /u           https://github.com/s10wen/redirects/edit/master/.htaccess
-Redirect 301 /watch       https://gist.github.com/s10wen/6140751
 Redirect 301 /wp          http://s10wen.com/blog/categories/wordpress/
 Redirect 301 /            http://s10wen.com
