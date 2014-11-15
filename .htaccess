@@ -4,6 +4,7 @@ Redirect 301 /code        http://codeshare.io/sowso
 Redirect 301 /donate      http://s10wen.com/blog/2013/05/26/mcrfred-sponsoring-and-donating/
 Redirect 301 /dotfiles    https://github.com/s10wen/dotfiles
 Redirect 301 /escape      http://173.254.28.140/~simonow1/escape-the-trap/01-start.html
+Redirect 301 /fen2014     http://s10wen.com/blog/2014/11/15/front-end-north-2014-slides/
 Redirect 301 /gittip      https://www.gittip.com/s10wen/
 Redirect 301 /h5bp        https://github.com/h5bp/html5-boilerplate
 Redirect 301 /mcrfred-21  http://s10wen.com/blog/2014/11/08/mcrfred-21a-and-21b/
