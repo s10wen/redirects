@@ -6,7 +6,7 @@ Redirect 301 /dotfiles      https://github.com/s10wen/dotfiles
 Redirect 301 /escape        http://173.254.28.140/~simonow1/escape-the-trap/01-start.html
 Redirect 301 /fen2014       http://s10wen.com/blog/2014/11/15/front-end-north-2014-slides/
 Redirect 301 /fen2014notes  http://s10wen.com/blog/2014/11/16/front-end-north-2014-notes/
-Redirect 301 /gittip        https://www.gittip.com/s10wen/
+Redirect 301 /tip           https://gratipay.com/s10wen/
 Redirect 301 /h5bp          https://github.com/h5bp/html5-boilerplate
 Redirect 301 /mcrfred-21    http://s10wen.com/blog/2014/11/08/mcrfred-21a-and-21b/
 Redirect 301 /mcrfred-20    http://s10wen.com/blog/2014/11/01/mcrfred-20-lightning-talks/
