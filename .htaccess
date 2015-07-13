@@ -9,6 +9,7 @@ Redirect 301 /fen2014notes  http://s10wen.com/blog/2014/11/16/front-end-north-20
 Redirect 301 /gittip        https://gratipay.com/s10wen/
 Redirect 301 /tip           https://gratipay.com/s10wen/
 Redirect 301 /h5bp          https://github.com/h5bp/html5-boilerplate
+Redirect 301 /mcrfred-27    http://s10wen.com/blog/2015/07/13/mcrfred-28-offline-security/
 Redirect 301 /mcrfred-27    http://s10wen.com/blog/2015/06/01/mcrfred-27-tom-pearson-making-tools-for-journalists/
 Redirect 301 /mcrfred-26    http://s10wen.com/blog/2015/05/08/mcrfred-26-codepen-special/
 Redirect 301 /mcrfred-25    http://s10wen.com/blog/2015/04/14/mcrfred-25-andi-smith/
